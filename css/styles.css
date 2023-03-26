@@ -1,0 +1,56 @@
+body {
+    font-family: Rubik, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font: bold;
+    color: black;
+    text-align: center;
+}
+.sarg {
+    border: black solid;
+    margin: 5px;
+}
+button {
+    background: center black;
+    color: white;
+    border: thin;
+    width: 80px;
+    height: 40px;
+    font-size: 25px;
+    cursor: pointer;
+}
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+p.msgsuc {
+    text-align:center;
+    width: 150px;
+    height: 50px;
+    border: gray solid;
+    border-radius: 10px;
+    border-width: 0.1mm;
+    background-color: greenyellow;
+    justify-content: center;
+    margin-bottom: 200px;
+}
+.logo {
+    position: fixed;
+    text-align: left;
+    bottom: 0px;
+    color: black;
+}
+.prefix:hover {
+    color: gray;
+}
+.first-cmd:hover {
+    color: gray;
+}
+.second-cmd:hover {
+    color: gray;
+}
+.third-cmd:hover {
+    color: gray;
+}
+.forth-cmd:hover {
+    color: gray;
+}
