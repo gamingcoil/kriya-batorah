@@ -54,3 +54,6 @@ p.msgsuc {
 .forth-cmd:hover {
     color: gray;
 }
+video {
+    height: 400px;
+}
